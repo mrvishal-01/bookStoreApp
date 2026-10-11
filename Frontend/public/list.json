@@ -1,0 +1,98 @@
+[
+    {
+        "id" : 1,
+        "name" : "Story Book",
+        "title" : "Lorem, ispum dolor sit amet consectetur adipisicing elite.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "/Image.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Comedy Book",
+        "title" : "Lorem, ispum dolor sit amet consectetur adipisicing elite.",
+        "price" : 20,
+        "category" : "Entertainment",
+        "image" : "/Image.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Sports Book",
+        "title" : "Lorem, ispum dolor sit amet consectetur adipisicing elite.",
+        "price" : 50,
+        "category" : "Free",
+        "image" : "/Image.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Music Book",
+        "title" : "Lorem, ispum dolor sit amet consectetur adipisicing elite.",
+        "price" : 100,
+        "category" : "Free",
+        "image" : "/Image.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Food Book",
+        "title" : "Lorem, ispum dolor sit amet consectetur adipisicing elite.",
+        "price" : 200,
+        "category" : "Free",
+        "image" : "/Image.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Manga Book",
+        "title" : "Lorem, ispum dolor sit amet consectetur adipisicing elite.",
+        "price" : 350,
+        "category" : "Manga",
+        "image" : "/Image.jpg"
+    },
+    {
+        "id" : 7,
+        "name" : "Cartoon Book",
+        "title" : "Lorem, ispum dolor sit amet consectetur adipisicing elite.",
+        "price" : 300,
+        "category" : "Free",
+        "image" : "/Image.jpg"
+    },
+    {
+        "id" : 8,
+        "name" : "Animal Book",
+        "title" : "Lorem, ispum dolor sit amet consectetur adipisicing elite.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "/Image.jpg"
+    },
+    {
+        "id" : 9,
+        "name" : "Insect Book",
+        "title" : "Lorem, ispum dolor sit amet consectetur adipisicing elite.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "/Image.jpg"
+    },
+    {
+        "id" : 10,
+        "name" : "Manga Book",
+        "title" : "Lorem, ispum dolor sit amet consectetur adipisicing elite.",
+        "price" : 350,
+        "category" : "Manga",
+        "image" : "/Image.jpg"
+    },
+    {
+        "id" : 11,
+        "name" : "Manga Book",
+        "title" : "Lorem, ispum dolor sit amet consectetur adipisicing elite.",
+        "price" : 350,
+        "category" : "Manga",
+        "image" : "/Image.jpg"
+    },
+    {
+        "id" : 12,
+        "name" : "Manga Book",
+        "title" : "Lorem, ispum dolor sit amet consectetur adipisicing elite.",
+        "price" : 350,
+        "category" : "Free",
+        "image" : "/Image.jpg"
+    }
+]
